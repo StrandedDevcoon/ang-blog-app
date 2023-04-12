@@ -1,0 +1,7 @@
+.featured-section {
+    padding-left: 138px;
+    padding-right: 138px;
+    padding-bottom: 138px;
+
+    background-color: var(--primary-color);
+}
