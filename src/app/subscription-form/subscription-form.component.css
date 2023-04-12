@@ -1,6 +1,6 @@
 .card {
     background-color: var(--secondary-color);
-    width: 1300px;
+    width: 1290px;
 }
 
 input[type = text], input[type = email] {
